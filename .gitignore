@@ -1,0 +1,6 @@
+out
+data/*.wav
+data/*.txt
+.idea/workspace.xml
+.idea/uiDesigner.xml
+.idea/vcs.xml
